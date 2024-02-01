@@ -1,1 +1,2 @@
-- I'm @RRATCatcher, currently working on finding RRAT pulsars with radio telescopes. 
+- I'm @RRATCatcher, an astrophysics undergraduate who loves SETI, RRATs, and all things space.
+- This github is organised mostly to suit my needs, so the names of my files are lengthy and descriptive.  
