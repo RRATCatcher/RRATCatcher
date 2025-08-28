@@ -1,10 +1,10 @@
 
 #### ABOUT ME
-My name is Charlie and I'm PhD student at Trinity College Dublin studying radio astrophysics & technosignatures.
+My name is Charlie, I'm a PhD student at Trinity College Dublin researching radio astrophysics and technosignatures.
 
 - **Pronouns:** She/Her
 - **Research Interests:** SETI, Space Mission Design, and Radio Astrophysics.👽
-- **General Interests:** Rodents, Horror Media, Cassettes, and learning to play as many instruments as possible. 🐀🎸
+- **General Interests:** Rodents, horror media, cassette collecting, and experimenting with different instruments. 🐀🎸
 
 #### Proficiencies
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
